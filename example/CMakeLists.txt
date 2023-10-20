@@ -1,4 +1,4 @@
-include_directories(../../)
+include_directories(../)
 
 add_executable(testserver testserver.cc)
 

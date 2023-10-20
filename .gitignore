@@ -1,4 +1,5 @@
-build
-example
-.vscode
+build/
+example/
+.vscode/
+lib/
 *.html

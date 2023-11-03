@@ -3,3 +3,4 @@ example/
 .vscode/
 lib/
 *.html
+.cache/
